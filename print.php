@@ -1,0 +1,3 @@
+<!doctype html><html><head><meta charset='utf-8'><meta name='viewport' content='width=device-width' /><title>Lab Management system Report</title><link rel='stylesheet' type='text/css' href='css/bootstrap.css'><link rel='stylesheet' type='text/css' href='css/bootstrap-responsive.css'><link rel='stylesheet' type='text/css' href='css/style.css'><link rel='icon' href='include/img/favicon.ico'></head><body><div class='printpage'>
+
+</div></body><script src='js/jquery-2.0.3.js'></script><script src='js/bootstrap.js'></script><script src='js/custom.js'></script><script src='js/update.js'></script></html>
